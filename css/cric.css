@@ -1,0 +1,108 @@
+
+
+.navbar-dark{
+    background-color: rgb(0, 50, 67);
+    padding: 0;
+    margin: 0;
+}
+.navbar-brand{
+    float: left;
+    margin: 0;
+    width: 400px;
+}
+.nameweb{
+    width: 250px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    margin-top: 10px;
+    line-height: 0.9;
+    height: 70px;
+}
+.navbar-collapse{
+    flex-grow: 0;
+}
+.first{
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 700px;
+    height: 100px;
+}
+.about{
+    width: 100px;
+}
+#section1{
+}
+.sec1h1{
+    margin-left: 35px;
+    margin-top: 50px;
+    font-weight: 700;
+}
+.aboutimg{
+    width: 100%;
+    display: flex;
+}
+.embed-responsive-16by9{
+    display: flex;
+    justify-content: space-around;
+}
+.first{
+    background-image: url('/img/IMG-20240310-WA0015.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: aqua;
+    width: 32%;
+    height: 300px;
+    margin: 10px 1%;
+
+}
+.bolcric{
+    background-image: url('/img/IMG-20240511-WA0003.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: aqua;
+    width: 32%;
+    height: 300px;
+    margin: 10px 1%;
+}
+.thir{
+    background-image: url('/img/IMG-20240418-WA0009.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: aqua;
+    width: 32%;
+    height: 300px;
+    margin: 10px 0;
+}
+.medpicsss{
+    width: 100%;
+    min-height: 300px;
+    display: flex;
+    background-color: black
+}
+.videoss{
+    width: 100%;
+    display: flex;
+    background-color: black
+}
+.vids{
+    width: 32%;
+    margin: 10px 1%;
+}
+video{
+    width: 100%;
+    height: 600px;
+    margin: 10px 1%;
+}
+.abouth2{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.contactguy{
+    padding: 0;
+    
+}
+.last{
+    width: 100%;
+}
